@@ -1,0 +1,56 @@
+* {
+    padding:0;
+    margin:0;
+    vertical-align: baseline;
+    list-style:none;
+}
+
+#top-menu {
+    padding: 20px 20px 0px 20px;
+}
+
+#top-menu > a, #top-menu > a:link, #top-menu > a:visited {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+    background-color: #0d6efd;
+}
+
+#top-menu > a:hover {
+    background-color: #c2dbfe;
+    color: #0d6efd;
+}
+
+
+#search-advanced {
+    text-align:left;
+    margin: 0;
+    position: absolute;
+    padding: 20px;
+}
+
+#search > h1 {
+    font-size: 3em;
+    padding: 20px;
+}
+
+#search {
+    text-align:center;
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+#formGroupExampleInput {
+    padding: 7px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.btn {
+    width: 150px;
+}
