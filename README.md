@@ -12,7 +12,7 @@ O projeto pode ser acessado e testado por meio da sua [GitHub Page](https://vict
 
 Um breve vídeo de demonstração do resultado do projeto foi feito e hospedado no [YouTube](https://youtu.be/zTojhb3C7IQ).
 
-## Especificações do projeto:
+## Especificações do projeto
 
 1. **Páginas** - seu website deve conter três páginas: uma para o Google Pesquisa, uma para o Google Imagens e uma para a Pesquisa Avançada do Google.
     * Na página principal de pesquisa do Google, seu projeto deverá conter na parte superior da página links para a Pesquisa de Imagens e/ou Pesquisa Avançada. Em cada uma dessas duas outras páginas, deverão conter, também na parte superior, um link para a página principal de pesquisa.
