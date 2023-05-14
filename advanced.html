@@ -9,26 +9,28 @@
     </head>
     <body>
         <div id="top-menu">
+            <a href="index.html"><img id="logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png" width="74"></a>
             <a href="index.html">Search</a>
             <a href="images.html">Images</a>
-            <a href="advanced.html">Advanced</a>
         </div>
         <div id="search-advanced">
-            <h1>Advanced</h1>
+            <h1>Pesquisa avançada</h1>
+            <hr>
+            <p>Localizar páginas com...</p>
             <form action="https://www.google.com.br/search" method="get">
-                <div>
-                    <label>Todas essas palavras:</label><br>
-                    <input class="form-control" id="formGroupExampleInput" name="q" type="text" autocomplete="off">
-                    <label>Esta expressão ou frase exata:</label><br>
-                    <input class="form-control" id="formGroupExampleInput" name="as_epq" type="text" autocomplete="off">
-                    <label>Qualquer uma destas palavras:</label><br>
-                    <input class="form-control" id="formGroupExampleInput" name="as_oq" type="text" autocomplete="off">
-                    <label>Nenhuma destas palavras:</label><br>
-                    <input class="form-control" id="formGroupExampleInput" name="as_eq" type="text" autocomplete="off">
+                <div id="advanced">
+                    <label>todas essas palavras:</label>
+                    <input name="q" type="text" autocomplete="off"><br>
+                    <label>esta expressão ou frase exata:</label>
+                    <input name="as_epq" type="text" autocomplete="off"><br>
+                    <label>qualquer uma destas palavras:</label>
+                    <input name="as_oq" type="text" autocomplete="off"><br>
+                    <label>nenhuma destas palavras:</label>
+                    <input name="as_eq" type="text" autocomplete="off"><br>
                 </div>
 
                 <div>
-                    <button type="submit" class="btn btn-primary mb-3">Advanced Search</button>
+                    <button class="button" type="submit">Pesquisa Avançada</button>
                 </div>
             </form>
         </div>

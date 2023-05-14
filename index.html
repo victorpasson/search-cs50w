@@ -9,19 +9,23 @@
     </head>
     <body>
         <div id="top-menu">
-            <a href="index.html">Search</a>
-            <a href="images.html">Images</a>
-            <a href="advanced.html">Advanced</a>
+            <a href="images.html">Imagens</a>
+            <a href="advanced.html">Avançada</a>
         </div>
         <div id="search">
-            <h1>Search</h1>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png">
+
             <form action="https://www.google.com.br/search" method="get">
-                <div>
-                    <input class="form-control" id="formGroupExampleInput" name="q" type="text" autocomplete="off" autofocus>
+                <div id="input-text">
+                    <img width="20" src="images/lupa.jpg">
+                    <input name="q" type="text" autocomplete="off" autofocus>
+                    <img width="20" src="images/teclado.jpg">
+                    <img id="last" width="20" src="images/lens.jpg">
                 </div>
 
                 <div>
-                    <button type="submit" class="btn btn-primary mb-3">Pesquisar</button>
+                    <button type="submit" class="btn btn-primary mb-3">Pesquisa Google</button>
+                    <button type="submit" name="btnI" value="'Estou+com+sorte'" class="btn btn-primary mb-3">Estou com sorte</button>
                 </div>
             </form>
         </div>
