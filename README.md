@@ -2,7 +2,7 @@
 
 Repositório que contém o código para a solução do primeiro projeto do curso CS50W - Web Programming. O objetivo principal era criar uma "cópia" do Google Search, Google Advanced Search e do Google Images. O projeto foi construído em HTML e CSS.
 
-![This is an image](https://i.ibb.co/BN9zbpP/Opera-Instant-neo-2023-05-14-161802-victorpasson-github-io.png)
+[![This is an image](https://i.ibb.co/BN9zbpP/Opera-Instant-neo-2023-05-14-161802-victorpasson-github-io.png)](https://victorpasson.github.io/search-cs50w/)
 
 ## Github Page
 
