@@ -154,8 +154,37 @@ body {
     color: #d93025;
     font-weight: normal;
     margin-top: 30px;
+    clear: both;
 }
 
 #logo {
     float: left;
+}
+
+#search span {
+    left: 377px;
+    bottom: 155px
+}
+
+@media (max-width: 599px) {
+    #input-text {
+        border: 1px solid #dfe1e5;
+        border-radius: 30px;
+        width: 430px;
+        height: 50px;
+        align: center;
+        padding: 10px;
+        position: relative;
+    }
+
+    #input-text > input {
+        border: none;
+        width: 75%;
+        margin: 2px 0px 0px 0px;
+    }
+
+    #search span {
+        left: 305px;
+        bottom: 155px
+    }
 }
