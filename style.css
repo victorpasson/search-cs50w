@@ -187,4 +187,28 @@ body {
         left: 305px;
         bottom: 155px
     }
+
+    #advanced input {
+    border: 1px solid #dfe1e5;
+    width: 280px;
+    margin: 2px 0px 10px 0px;
+    padding: 3px;
+    }
+
+    #search-advanced hr {
+    width: 100%;
+    margin-left: -40px;
+    margin-top: 30px;
+    }
+    
+    .button {
+    border: 1px solid #3079ed;
+    border-radius: 3px;
+    font-size: 0.7em;
+    font-weight: bold;
+    padding: 6px 10px;
+    background-color: #4d90fd;
+    color: #FFF;
+    margin: 25px 0px 0px 158px;
+    }
 }
