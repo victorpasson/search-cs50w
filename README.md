@@ -10,7 +10,7 @@ O projeto pode ser acessado e testado por meio da sua [GitHub Page](https://vict
 
 ## Youtube Vídeo
 
-Um breve vídeo de demonstração do resultado do projeto foi feito e hospedado no [YouTube](https://youtu.be/zTojhb3C7IQ).
+Um breve vídeo de demonstração do resultado do projeto foi feito e hospedado no ![YouTube](https://youtu.be/zTojhb3C7IQ).
 
 ## Especificações do projeto
 
